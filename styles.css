@@ -1,0 +1,32 @@
+#test {
+	text-align: center;
+	text-transform: uppercase;
+	/*display:flex;*/
+	/*justify-content: center;
+	align-items: center;*/
+	padding-top: 15%;
+}
+
+html{
+ height: 100%;
+ width: 100%
+}
+.btn-lg{
+	text-transform: uppercase;
+}
+.btn-lg:hover{
+	background: black;
+	color:white;
+}
+
+body{
+	background: url(./trianglify.svg);
+	background-size: cover;
+	background-position: center;
+	/*background-repeat: 	no-repeat;*/
+	    background-attachment: fixed;
+}
+h1{	
+font-weight: 700;
+font-size: 4em;
+}
